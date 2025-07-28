@@ -1,45 +1,10 @@
-# Where Did My Traffic Go? Winning in the Age of AI Overviews / 我的流量去哪了？在AI概覽時代中獲勝
-
-<div align="center">
-
-[![English](https://img.shields.io/badge/Language-English-blue.svg)](#english) 
-[![中文繁體](https://img.shields.io/badge/語言-中文繁體-red.svg)](#繁體中文) 
-[![中文简体](https://img.shields.io/badge/语言-中文简体-red.svg)](#简体中文) 
-[![日本語](https://img.shields.io/badge/言語-日本語-green.svg)](#日本語) 
-[![한국어](https://img.shields.io/badge/언어-한국어-yellow.svg)](#한국어) 
-[![Español](https://img.shields.io/badge/Idioma-Español-orange.svg)](#español)
-
-</div>
-
----
-
-## Language Versions / 語言版本
-
-### <a name="english"></a>🇬🇧 English
-[Read the English Version](./en/README.md)
-
-### <a name="繁體中文"></a>🇹🇼 繁體中文
-[閱讀繁體中文版](./zh-tw/README.md)
-
-### <a name="简体中文"></a>🇨🇳 简体中文
-[阅读简体中文版](./zh-cn/README.md)
-
-### <a name="日本語"></a>🇯🇵 日本語
-[日本語版を読む](./ja/README.md)
-
-### <a name="한국어"></a>🇰🇷 한국어
-[한국어 버전 읽기](./ko/README.md)
-
-### <a name="español"></a>🇪🇸 Español
-[Leer la versión en español](./es/README.md)
-
----
+# 我的流量去哪了？在AI概覽時代中獲勝
 
 > 一本關於在Google AI概覽和生成式搜尋體驗時代中維持和增長網站流量的完整指南
-> 
-> A comprehensive guide on maintaining and growing website traffic in the age of Google AI Overviews and generative search experiences
 
-由 [Tenten](https://tenten.co) 提供 / Provided by [Tenten](https://tenten.co)
+由 [Tenten](https://tenten.co) 提供
+
+[← 返回語言選擇](../README.md)
 
 ---
 
