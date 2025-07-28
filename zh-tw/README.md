@@ -103,6 +103,25 @@
 
 [Tenten](https://tenten.co) 是領先的數位行銷和SEO專業機構，專注於幫助企業在不斷變化的數位環境中蓬勃發展。
 
+### 更多關於 Tenten
+- [Developer Blog](https://developer.tenten.co/)
+- [Shopify Developer Blog](https://shopify.tenten.co/)
+- [Tenten AI Blog](https://tenten.co/learning/)
+- [GEO (AI SEO) by Tenten](https://geo.tenten.co/zh-tw)
+- [Leading Webflow Agency Asia](https://tenten.co/solution/webflow-agency)
+- [Shopify Plus B2B Agency China/ Taiwan](https://tenten.co/solution/shopify)
+- [Tenten AI - AI Transformatiom Consultancy | Redefine business in the age of AI](https://tentenai.com/)
+
+### 社群
+- [Instagram](https://instagram.com/tenten.co)
+- [YouTube](https://www.youtube.com/@tenten_ai)
+- [Linkedin](https://www.linkedin.com/company/tentenco)
+- [Threads](https://www.threads.net/@tenten.co)
+- [Tiktok](https://www.tiktok.com/@tenten.ai)
+- [X](https://x.com/tentencretaive)
+- [Newsletter](https://tenten.co/page/company/newsletter)
+- [Linktree](https://linktr.ee/tenten.co)
+
 ---
 
-© 2024 Tenten. 保留所有權利。
+© 2025 Tenten. Licensed under the MIT License.

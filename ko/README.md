@@ -103,6 +103,25 @@ AI가 검색 환경을 어떻게 변화시키고 있으며 왜 전략을 조정�
 
 [Tenten](https://tenten.co)은 끊임없이 변화하는 디지털 환경에서 비즈니스가 번창할 수 있도록 돕는 데 중점을 둔 선도적인 디지털 마케팅 및 SEO 에이전시입니다.
 
+### Tenten에 대해 더 알아보기
+- [개발자 블로그](https://developer.tenten.co/)
+- [Shopify 개발자 블로그](https://shopify.tenten.co/)
+- [Tenten AI 블로그](https://tenten.co/learning/)
+- [GEO (AI SEO) by Tenten](https://geo.tenten.co/zh-tw)
+- [아시아 선도적인 Webflow 에이전시](https://tenten.co/solution/webflow-agency)
+- [중국/대만 Shopify Plus B2B 에이전시](https://tenten.co/solution/shopify)
+- [Tenten AI - AI 전환 컨설팅 | AI 시대의 비즈니스 재정의](https://tentenai.com/)
+
+### 소셜
+- [Instagram](https://instagram.com/tenten.co)
+- [YouTube](https://www.youtube.com/@tenten_ai)
+- [Linkedin](https://www.linkedin.com/company/tentenco)
+- [Threads](https://www.threads.net/@tenten.co)
+- [Tiktok](https://www.tiktok.com/@tenten.ai)
+- [X](https://x.com/tentencretaive)
+- [뉴스레터](https://tenten.co/page/company/newsletter)
+- [Linktree](https://linktr.ee/tenten.co)
+
 ---
 
-© 2024 Tenten. All rights reserved.
+© 2025 Tenten. Licensed under the MIT License.

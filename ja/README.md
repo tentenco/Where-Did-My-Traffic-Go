@@ -103,6 +103,25 @@ AIが検索の景観をどのように変えているか、そしてなぜ戦略
 
 [Tenten](https://tenten.co)は、変化し続けるデジタルランドスケープでビジネスが繁栄することを支援することに焦点を当てた、主要なデジタルマーケティングおよびSEOエージェンシーです。
 
+### Tentenについてもっと知る
+- [開発者ブログ](https://developer.tenten.co/)
+- [Shopify開発者ブログ](https://shopify.tenten.co/)
+- [Tenten AIブログ](https://tenten.co/learning/)
+- [GEO（AI SEO）by Tenten](https://geo.tenten.co/zh-tw)
+- [アジアリーディングWebflowエージェンシー](https://tenten.co/solution/webflow-agency)
+- [中国/台湾 Shopify Plus B2Bエージェンシー](https://tenten.co/solution/shopify)
+- [Tenten AI - AIトランスフォーメーションコンサルタンシー | AI時代におけるビジネスの再定義](https://tentenai.com/)
+
+### ソーシャル
+- [Instagram](https://instagram.com/tenten.co)
+- [YouTube](https://www.youtube.com/@tenten_ai)
+- [Linkedin](https://www.linkedin.com/company/tentenco)
+- [Threads](https://www.threads.net/@tenten.co)
+- [Tiktok](https://www.tiktok.com/@tenten.ai)
+- [X](https://x.com/tentencretaive)
+- [ニュースレター](https://tenten.co/page/company/newsletter)
+- [Linktree](https://linktr.ee/tenten.co)
+
 ---
 
-© 2024 Tenten. All rights reserved.
+© 2025 Tenten. Licensed under the MIT License.

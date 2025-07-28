@@ -103,6 +103,25 @@ El panorama de búsqueda está en constante cambio. Este libro se actualizará r
 
 [Tenten](https://tenten.co) es una agencia líder en marketing digital y SEO enfocada en ayudar a las empresas a prosperar en el panorama digital en constante cambio.
 
+### Más sobre Tenten
+- [Blog para desarrolladores](https://developer.tenten.co/)
+- [Blog para desarrolladores de Shopify](https://shopify.tenten.co/)
+- [Blog de Tenten AI](https://tenten.co/learning/)
+- [GEO (AI SEO) por Tenten](https://geo.tenten.co/zh-tw)
+- [Agencia líder de Webflow en Asia](https://tenten.co/solution/webflow-agency)
+- [Agencia Shopify Plus B2B China/Taiwán](https://tenten.co/solution/shopify)
+- [Tenten AI - Consultoría de transformación AI | Redefinir los negocios en la era de la IA](https://tentenai.com/)
+
+### Social
+- [Instagram](https://instagram.com/tenten.co)
+- [YouTube](https://www.youtube.com/@tenten_ai)
+- [Linkedin](https://www.linkedin.com/company/tentenco)
+- [Threads](https://www.threads.net/@tenten.co)
+- [Tiktok](https://www.tiktok.com/@tenten.ai)
+- [X](https://x.com/tentencretaive)
+- [Boletín](https://tenten.co/page/company/newsletter)
+- [Linktree](https://linktr.ee/tenten.co)
+
 ---
 
-© 2024 Tenten. Todos los derechos reservados.
+© 2025 Tenten. Licensed under the MIT License.
