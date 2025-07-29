@@ -1,6 +1,6 @@
 # Where Did My Traffic Go? Winning in the Age of AI Overviews / 我的流量去哪了？在AI概覽時代中獲勝
 
-![Where Did My Traffic Go](https://s4.tenten.co/where-did-my-traffic-go-tenten-geo.jpg)
+![Where Did My Traffic Go!](https://s4.tenten.co/where-did-my-traffic-go-tenten-geo.jpg)
 
 <div align="center">
 
